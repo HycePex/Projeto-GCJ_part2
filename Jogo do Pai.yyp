@@ -167,10 +167,10 @@
             }
         },
         {
-            "Key": "13c1c91b-811c-45c8-8e9d-26e95626d4b1",
+            "Key": "14befe76-5fb5-40df-ac48-cab595bc23fb",
             "Value": {
-                "id": "e6f7819d-2f7a-48fc-af1f-d12c46552418",
-                "resourcePath": "objects\\inimigo_obj\\inimigo_obj.yy",
+                "id": "9656f04d-2b0c-4de9-9be3-9a618ea47cab",
+                "resourcePath": "objects\\obj_braco2\\obj_braco2.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -679,6 +679,14 @@
             }
         },
         {
+            "Key": "65967914-78ea-453f-a19c-78abd871302a",
+            "Value": {
+                "id": "6e997bf2-0f44-4b34-bd9f-22eb06b54835",
+                "resourcePath": "objects\\obj_virus2\\obj_virus2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "65d50df5-9f5b-4ae1-9444-4ad60396d5d8",
             "Value": {
                 "id": "096fb399-3561-40eb-a265-13cc960abe5b",
@@ -850,7 +858,7 @@
             "Key": "7d14f6bf-8499-46c2-bac2-ea1aa04122f9",
             "Value": {
                 "id": "aa91da52-76fd-42ee-949b-18baf8795bbb",
-                "resourcePath": "objects\\oBlockGs\\oBlockGs.yy",
+                "resourcePath": "objects\\oBlockG\\oBlockG.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1380,14 +1388,6 @@
                 "id": "db49d370-3796-4dd3-8306-65ca922efd09",
                 "resourcePath": "scripts\\liquid_draw_surface\\liquid_draw_surface.yy",
                 "resourceType": "GMScript"
-            }
-        },
-        {
-            "Key": "d3b3c176-2444-440d-bca2-ac82ee3b058f",
-            "Value": {
-                "id": "f171812d-cf9d-4787-a87d-3ce8b9119f20",
-                "resourcePath": "extensions\\Rope_Water_Physics_Platformer\\Rope_Water_Physics_Platformer.yy",
-                "resourceType": "GMExtension"
             }
         },
         {

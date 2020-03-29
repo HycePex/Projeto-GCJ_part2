@@ -6,7 +6,7 @@
 
 if(keyboard_check_pressed(vk_control)) room_restart()
 if(keyboard_check_pressed(vk_tab)) room_goto(r_fase3)
-//#endregion
+//#endregiondddddddd
 
 
 //#region MOVIMENTAÇÃO
